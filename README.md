@@ -1,26 +1,26 @@
-﻿# To-Do-List
- 
- ###### Features #######
-  
-1. Add New Tasks – Quickly add tasks to your list.
+📌 To-Do List App
+A simple, responsive, and user-friendly To-Do List Web Application designed to help you organize tasks, boost productivity, and track your daily goals.
 
-2. Edit Tasks – Modify task details without deleting.
+✨ Features
+➕ Add New Tasks – Quickly add tasks to your list.
 
-3. Mark as Complete – Keep track of finished tasks.
+✏️ Edit Tasks – Modify task details without deleting.
 
-4. Delete Tasks – Remove tasks you no longer need.
+✅ Mark as Complete – Keep track of finished tasks.
 
-5. Persistent Storage – Saves tasks using local storage (data stays even after refresh).
+❌ Delete Tasks – Remove tasks you no longer need.
 
-6. Responsive Design – Works on desktop and mobile.
+💾 Persistent Storage – Saves tasks using local storage (data stays even after refresh).
 
-    <img width="795" height="602" alt="image" src="https://github.com/user-attachments/assets/2246f6dd-8a97-4d2f-8ac5-bcb8e1d8df72" />
+📱 Responsive Design – Works on desktop and mobile.
 
+<img width="889" height="670" alt="image" src="https://github.com/user-attachments/assets/619de288-854d-4366-a601-af1991390bc7" />
 
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling & Layout
 JavaScript (Vanilla) – Functionality
+
 
 
 
