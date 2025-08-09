@@ -1,6 +1,7 @@
 ﻿# To-Do-List
- <img width="795" height="602" alt="image" src="https://github.com/user-attachments/assets/2246f6dd-8a97-4d2f-8ac5-bcb8e1d8df72" />
-  Features
+ 
+ ###### Features #######
+  
 1. Add New Tasks – Quickly add tasks to your list.
 
 2. Edit Tasks – Modify task details without deleting.
@@ -13,10 +14,14 @@
 
 6. Responsive Design – Works on desktop and mobile.
 
+    <img width="795" height="602" alt="image" src="https://github.com/user-attachments/assets/2246f6dd-8a97-4d2f-8ac5-bcb8e1d8df72" />
+
+
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling & Layout
 JavaScript (Vanilla) – Functionality
+
 
 
 
