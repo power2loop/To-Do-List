@@ -1,7 +1,9 @@
 📌 To-Do List App
+
 A simple, responsive, and user-friendly To-Do List Web Application designed to help you organize tasks, boost productivity, and track your daily goals.
 
 ✨ Features
+
 ➕ Add New Tasks – Quickly add tasks to your list.
 
 ✏️ Edit Tasks – Modify task details without deleting.
@@ -20,6 +22,7 @@ A simple, responsive, and user-friendly To-Do List Web Application designed to h
 HTML5 – Structure
 CSS3 – Styling & Layout
 JavaScript (Vanilla) – Functionality
+
 
 
 
